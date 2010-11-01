@@ -1,0 +1,5 @@
+This was started at SDTConf 2010 in Columbus, OH.
+
+@chzy led a session called "Make it sing" where he challenged us to come up with an expressive dsl for testing the bowling game kata. Also, he challenged us to avoid using JUnit, rspec or any other testing framework. 
+
+The results so far are the result of that hour.
